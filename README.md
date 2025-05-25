@@ -20,3 +20,6 @@ Built a convolutional neural network to automatically detect capuchin bird calls
 - Enabled scalable, automated detection of capuchin bird calls in natural habitats
 - Provided a foundation for ecological studies on bird population density and habitat monitoring
 - Gained practical experience in audio data pipelines and ML model deployment
+
+![Spectrogram](spectrogram.png)
+Fig.1 Spectogram of Capuchin Bird Call
