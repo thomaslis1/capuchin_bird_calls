@@ -1,6 +1,4 @@
 # Capuchin Bird Call Detection Using CNNs
-![Spectogram](spectogram.png)
-Fig.1 Spectrogram of Capuchin Bird Call
 
 **Tools:** Python, TensorFlow, Google Colab
 
@@ -23,3 +21,14 @@ Built a convolutional neural network to automatically detect capuchin bird calls
 - Provided a foundation for ecological studies on bird population density and habitat monitoring
 - Gained practical experience in audio data pipelines and ML model deployment
 
+![Spectogram](spectogram.png)
+<br>
+Fig.1 Spectrogram of Capuchin Bird Call
+
+![WAV Format](wav%20format.png)
+<br>
+Fig.2 Comparative WAV Formats of Bird Calls
+
+![Precision](precision.png)
+<br>
+Fig.3 Precision Curve After 4 Epochs 
